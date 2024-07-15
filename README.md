@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alopes01
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Linux 
+- 🌱 I’m currently learning Linux and Python    
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me publicidade.sister017@silomails.com 
 - 😄 Pronouns: He
